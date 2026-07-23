@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 [https://anki.fyi](https://anki.fyi)
+
+[https://sqlite-anki.app](https://sqlite-anki.app)
+
+[https://lintern.app](https://lintern.app)
 <!--
 **ankinelaturu/ankinelaturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
